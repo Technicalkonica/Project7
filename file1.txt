@@ -3,3 +3,4 @@ This is second change for file1.txt
 This is third change for file1.txt
 This is konica test.
 newchnages from local
+newchnages from local
